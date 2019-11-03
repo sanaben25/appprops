@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Warpper from "./Warpper";
+import{ Title, Photo } from "./common"
+import Wrapper from "./Wrapper";
 
 
 function App() {
@@ -24,3 +25,4 @@ function App() {
 }
 
 export default App;
+
